@@ -16,7 +16,7 @@ class Main {
   System.out.println(businessName);
   System.out.println(creationDate);
   if(stillABusi == true){
-    System.out.println("Your company is still going strong!");
+    System.out.println("Your company is still going strong!");a
   }else{
     System.out.println("Your company is out of business. Sorry");
   }
