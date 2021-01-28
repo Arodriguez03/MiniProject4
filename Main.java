@@ -18,7 +18,7 @@ class Main {
   if(stillABusi == true){
     System.out.println("Your company is still going strong!");
   }else{
-    System.out.println("Your company is out of business. Sorry");
+    System.out.println("Your company is out of business. Sorry");a
   }
   
   }
